@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token_interface;
 
-declare_id!("B96dV3Luxzo6SokJx3xt8i5y8Mb7HRR6Eec8hCjJDT69");
+declare_id!("Fv8pLNSPg3nenVsP1VbKqaPxyj2s47x2jmZLAkG9kV52");
 
 #[error_code]
 pub enum SplUtilsError {
